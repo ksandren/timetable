@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:text="пн 10.11"
+    android:textColor="#FFFFFF"
+    android:textSize="20sp"
+    android:layout_height="35dp"
+    android:id="@+id/daybtn"
+    android:shadowColor="#06614C"
+    android:shadowDx="0"
+    android:shadowDy="0"
+    android:shadowRadius="3"
+    android:background="@drawable/buttonshape"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center" />
