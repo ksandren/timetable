@@ -10,6 +10,4 @@ line 8: pass => your database password
 line 9: http://example.com => your target url  
 /web_api/timetable.php  
 line 4: admin => your database username  
-line 5: pass => your database password  
-if you find any sensitive data here, please let me know at the email ksandren2@gmail.com  
-если вы найдете какие-либо конфиденциальные данные здесь, пожалуйста, сообщите мне на email ksandren2@gmail.com  
+line 5: pass => your database password   
